@@ -1,0 +1,36 @@
+body 
+{
+    background-image: url("back.jpg");
+}
+header
+{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 70px;
+    color: #8B4513;
+}
+section
+{
+    font-family: 'Average Sans', sans-serif;
+    font-size: 20px;
+    color: #8B4513;
+}
+
+#ingredientesyfoto
+{
+    float: left;
+}
+ul
+{
+    float: left;
+}
+img
+{
+    float:left;
+    margin-left:300px;
+    height: 260px;
+}
+#instrucciones
+{
+    clear: both;
+}
+/**/

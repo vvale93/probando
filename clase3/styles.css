@@ -1,0 +1,19 @@
+body
+{
+    background-color:rgba(255, 162, 0, 0.66);
+    color:white;
+}
+#submit
+{
+    background-color:white;
+    color: #FFBB00;
+    border-color: white;
+}
+.contenido
+{
+    margin-top: 56px;
+}
+footer
+{
+    font-size: 12px;
+}

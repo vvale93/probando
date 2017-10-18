@@ -1,0 +1,32 @@
+@import 'variables';
+
+header
+{
+    font-family: $font;
+    font-size: $fontsize;
+
+    ul
+    {
+        list-style: none;
+
+        li
+        {
+            color:$blue;
+        }
+
+        &:first-child
+        {
+            padding-left: 0;
+        }
+
+        &.__hola
+        {
+            padding-left: 100px;
+        }
+
+        >span
+        {
+            font-family: 'Lato';
+        }
+    }
+}
